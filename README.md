@@ -1,9 +1,6 @@
 # epg-greece-cyprus
 EPG for Greek and Cypriot channels.
 
-## Donate
-<a href='https://ko-fi.com/B0B6Y5661' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 ## Disclaimer
 The [Greek TV Application](https://greektv.app/) does NOT provide Pay TV channels, nor their programs. The channel programs for the Pay TV channels are provided for informational purposes only and are not being used in any way by us and/or the application.
 
